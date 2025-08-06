@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/home/m02067",
+  "_repo_dir": "/home/m02067/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Edvard Garmannslund",
+  "copyright_year": "2025",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "edvard.pg@outlook.com",
+  "friendly_name": "Test Skatt Dqv",
+  "github_user": "EdvardGarmannslund",
+  "license": "MIT",
+  "package_name": "skatt_dqv",
+  "project_name": "test-skatt-dqv",
+  "version": "0.0.0"
+}
